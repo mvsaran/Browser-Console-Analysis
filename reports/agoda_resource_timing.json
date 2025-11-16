@@ -1,0 +1,1359 @@
+{
+  "totalRequests": 203,
+  "groups": {
+    "link": {
+      "count": 18,
+      "totalTransfer": 1444949,
+      "totalEncoded": 2499676,
+      "totalDecoded": 15598734
+    },
+    "script": {
+      "count": 72,
+      "totalTransfer": 2316721,
+      "totalEncoded": 2306821,
+      "totalDecoded": 12518644
+    },
+    "xmlhttprequest": {
+      "count": 35,
+      "totalTransfer": 53652,
+      "totalEncoded": 47952,
+      "totalDecoded": 152635
+    },
+    "fetch": {
+      "count": 20,
+      "totalTransfer": 8506,
+      "totalEncoded": 4606,
+      "totalDecoded": 8183
+    },
+    "img": {
+      "count": 46,
+      "totalTransfer": 6607149,
+      "totalEncoded": 6596649,
+      "totalDecoded": 6604421
+    },
+    "css": {
+      "count": 1,
+      "totalTransfer": 895215,
+      "totalEncoded": 894915,
+      "totalDecoded": 894915
+    },
+    "iframe": {
+      "count": 9,
+      "totalTransfer": 5176,
+      "totalEncoded": 3676,
+      "totalDecoded": 8430
+    },
+    "other": {
+      "count": 1,
+      "totalTransfer": 1604,
+      "totalEncoded": 1304,
+      "totalDecoded": 1281
+    },
+    "beacon": {
+      "count": 1,
+      "totalTransfer": 0,
+      "totalEncoded": 0,
+      "totalDecoded": 0
+    }
+  },
+  "top": [
+    {
+      "name": "https://cdn6.agoda.net/images/WebCampaign/20250729_th_flagshipstoreaccor_2/home_banner_web/en-us.png",
+      "type": "img",
+      "transferSize": 4120943,
+      "encodedBodySize": 4120643,
+      "decodedBodySize": 4120643,
+      "duration": 281.80000019073486,
+      "startTime": 3969.199999809265
+    },
+    {
+      "name": "https://cdn6.agoda.net/images/WebCampaign/20250916_in_royalorchid/home_banner_web/en-us.png",
+      "type": "img",
+      "transferSize": 1132978,
+      "encodedBodySize": 1132678,
+      "decodedBodySize": 1132678,
+      "duration": 391.09999990463257,
+      "startTime": 3969.5999999046326
+    },
+    {
+      "name": "https://cdn0.agoda.net/images/accom/3367_IN_homepage_background_B.png",
+      "type": "css",
+      "transferSize": 895215,
+      "encodedBodySize": 894915,
+      "decodedBodySize": 894915,
+      "duration": 311,
+      "startTime": 3110.399999856949
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/9557-756d0c1ec441.js",
+      "type": "script",
+      "transferSize": 893985,
+      "encodedBodySize": 893685,
+      "decodedBodySize": 5637299,
+      "duration": 837.4000000953674,
+      "startTime": 733.5999999046326
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/3143-eb8ff648c99c.js",
+      "type": "link",
+      "transferSize": 689078,
+      "encodedBodySize": 688778,
+      "decodedBodySize": 4221288,
+      "duration": 114.40000009536743,
+      "startTime": 3084.899999856949
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/6208-3daa9ca16309.js",
+      "type": "script",
+      "transferSize": 378106,
+      "encodedBodySize": 377806,
+      "decodedBodySize": 2909830,
+      "duration": 765.5999999046326,
+      "startTime": 733.5999999046326
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/search-24cd67cdd3e7.js",
+      "type": "link",
+      "transferSize": 272672,
+      "encodedBodySize": 272372,
+      "decodedBodySize": 1187022,
+      "duration": 138.20000004768372,
+      "startTime": 3085.0999999046326
+    },
+    {
+      "name": "https://cdn6.agoda.net/images/EmailMarketing/activities/hp_banner/web/en-us.png",
+      "type": "img",
+      "transferSize": 243975,
+      "encodedBodySize": 243675,
+      "decodedBodySize": 243675,
+      "duration": 168.10000014305115,
+      "startTime": 4024.699999809265
+    },
+    {
+      "name": "https://cdn6.agoda.net/images/WebCampaign/20251103_ss_doubleday1111/home_banner_web/en-us.png",
+      "type": "img",
+      "transferSize": 212966,
+      "encodedBodySize": 212666,
+      "decodedBodySize": 212666,
+      "duration": 94.5,
+      "startTime": 3968.899999856949
+    },
+    {
+      "name": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202511100101/pubads_impl.js?cb=31095768",
+      "type": "script",
+      "transferSize": 196539,
+      "encodedBodySize": 196239,
+      "decodedBodySize": 620703,
+      "duration": 139.90000009536743,
+      "startTime": 4545.099999904633
+    },
+    {
+      "name": "https://cdn6.agoda.net/images/WebCampaign/20250724_in_oliveindia/home_banner_web/en-us.png",
+      "type": "img",
+      "transferSize": 183293,
+      "encodedBodySize": 182993,
+      "decodedBodySize": 182993,
+      "duration": 135.60000014305115,
+      "startTime": 3969.399999856949
+    },
+    {
+      "name": "https://cdn6.agoda.net/images/WebCampaign/dealspagebanner_hp_web/en-us.png",
+      "type": "img",
+      "transferSize": 164533,
+      "encodedBodySize": 164233,
+      "decodedBodySize": 164233,
+      "duration": 98.20000004768372,
+      "startTime": 3969.199999809265
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/9557-37980e56dcc4.css",
+      "type": "link",
+      "transferSize": 161989,
+      "encodedBodySize": 161689,
+      "decodedBodySize": 1649186,
+      "duration": 541.1999998092651,
+      "startTime": 719.5
+    },
+    {
+      "name": "https://cdn6.agoda.net/images/blt2/wcFlightsEvergreen2025/Web/5pct/en-us.png",
+      "type": "img",
+      "transferSize": 132127,
+      "encodedBodySize": 131827,
+      "decodedBodySize": 131827,
+      "duration": 180.79999995231628,
+      "startTime": 4024.7999999523163
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/1258-fbf825d00276.js",
+      "type": "link",
+      "transferSize": 111361,
+      "encodedBodySize": 111061,
+      "decodedBodySize": 444302,
+      "duration": 69.40000009536743,
+      "startTime": 3084.199999809265
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/4906-81ad39f700f8.js",
+      "type": "script",
+      "transferSize": 94640,
+      "encodedBodySize": 94340,
+      "decodedBodySize": 355410,
+      "duration": 660.1999998092651,
+      "startTime": 733.5
+    },
+    {
+      "name": "https://connect.facebook.net/en_US/fbevents.js",
+      "type": "script",
+      "transferSize": 83849,
+      "encodedBodySize": 83549,
+      "decodedBodySize": 327428,
+      "duration": 269,
+      "startTime": 3709.7999999523163
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/4312-a7fd5217a85c.js",
+      "type": "script",
+      "transferSize": 69053,
+      "encodedBodySize": 68753,
+      "decodedBodySize": 298096,
+      "duration": 69.60000014305115,
+      "startTime": 2613.399999856949
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/home-ea59ad872fd4.js",
+      "type": "script",
+      "transferSize": 66840,
+      "encodedBodySize": 66540,
+      "decodedBodySize": 258861,
+      "duration": 731.5,
+      "startTime": 733.7999999523163
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/8610-f0c69965d43b.js",
+      "type": "script",
+      "transferSize": 65923,
+      "encodedBodySize": 65623,
+      "decodedBodySize": 244697,
+      "duration": 77.10000014305115,
+      "startTime": 2706.199999809265
+    }
+  ],
+  "entries": [
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/9557-37980e56dcc4.css",
+      "type": "link",
+      "transferSize": 161989,
+      "encodedBodySize": 161689,
+      "decodedBodySize": 1649186,
+      "duration": 541.1999998092651,
+      "startTime": 719.5
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/6208-b0511d9de00c.css",
+      "type": "link",
+      "transferSize": 59368,
+      "encodedBodySize": 59068,
+      "decodedBodySize": 799707,
+      "duration": 564.2000000476837,
+      "startTime": 720.0999999046326
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/home-3508859f6906.css",
+      "type": "link",
+      "transferSize": 30179,
+      "encodedBodySize": 29879,
+      "decodedBodySize": 225080,
+      "duration": 578.7000000476837,
+      "startTime": 720.1999998092651
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/4753-ceb6d5ed8fba.js",
+      "type": "script",
+      "transferSize": 47003,
+      "encodedBodySize": 46703,
+      "decodedBodySize": 214363,
+      "duration": 621.8999998569489,
+      "startTime": 733.2999999523163
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/8750-e7089e02e058.js",
+      "type": "script",
+      "transferSize": 51936,
+      "encodedBodySize": 51636,
+      "decodedBodySize": 179330,
+      "duration": 637.4000000953674,
+      "startTime": 733.3999998569489
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/4906-81ad39f700f8.js",
+      "type": "script",
+      "transferSize": 94640,
+      "encodedBodySize": 94340,
+      "decodedBodySize": 355410,
+      "duration": 660.1999998092651,
+      "startTime": 733.5
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/6208-3daa9ca16309.js",
+      "type": "script",
+      "transferSize": 378106,
+      "encodedBodySize": 377806,
+      "decodedBodySize": 2909830,
+      "duration": 765.5999999046326,
+      "startTime": 733.5999999046326
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/9557-756d0c1ec441.js",
+      "type": "script",
+      "transferSize": 893985,
+      "encodedBodySize": 893685,
+      "decodedBodySize": 5637299,
+      "duration": 837.4000000953674,
+      "startTime": 733.5999999046326
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/9392-e67544b11f93.js",
+      "type": "script",
+      "transferSize": 24199,
+      "encodedBodySize": 23899,
+      "decodedBodySize": 87135,
+      "duration": 731,
+      "startTime": 733.6999998092651
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/home-ea59ad872fd4.js",
+      "type": "script",
+      "transferSize": 66840,
+      "encodedBodySize": 66540,
+      "decodedBodySize": 258861,
+      "duration": 731.5,
+      "startTime": 733.7999999523163
+    },
+    {
+      "name": "https://tags.tiqcdn.com/utag/agoda/main2018/prod/utag.js",
+      "type": "script",
+      "transferSize": 0,
+      "encodedBodySize": 0,
+      "decodedBodySize": 0,
+      "duration": 411.2000000476837,
+      "startTime": 1317.5999999046326
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/9873-55aa74423c07.css",
+      "type": "link",
+      "transferSize": 35946,
+      "encodedBodySize": 35646,
+      "decodedBodySize": 349042,
+      "duration": 64.90000009536743,
+      "startTime": 1790.3999998569489
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/5261-82ca1ff1fcab.js",
+      "type": "script",
+      "transferSize": 680,
+      "encodedBodySize": 380,
+      "decodedBodySize": 642,
+      "duration": 65.5,
+      "startTime": 1792.0999999046326
+    },
+    {
+      "name": "https://www.agoda.com/api/card/campaigns",
+      "type": "xmlhttprequest",
+      "transferSize": 1461,
+      "encodedBodySize": 1161,
+      "decodedBodySize": 5114,
+      "duration": 169.29999995231628,
+      "startTime": 2297.2999999523163
+    },
+    {
+      "name": "https://www.agoda.com/api/cronos/layout/GetHotCities",
+      "type": "xmlhttprequest",
+      "transferSize": 1150,
+      "encodedBodySize": 850,
+      "decodedBodySize": 3460,
+      "duration": 159.5,
+      "startTime": 2445.0999999046326
+    },
+    {
+      "name": "https://www.agoda.com/api/cronos/layout/login/params",
+      "type": "xmlhttprequest",
+      "transferSize": 3755,
+      "encodedBodySize": 3455,
+      "decodedBodySize": 8031,
+      "duration": 137.79999995231628,
+      "startTime": 2446.2999999523163
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/500-e8164857770f.js",
+      "type": "script",
+      "transferSize": 1007,
+      "encodedBodySize": 707,
+      "decodedBodySize": 1378,
+      "duration": 69.60000014305115,
+      "startTime": 2449.399999856949
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-design-system/icons/43f45643.svg",
+      "type": "fetch",
+      "transferSize": 593,
+      "encodedBodySize": 293,
+      "decodedBodySize": 519,
+      "duration": 224,
+      "startTime": 2557
+    },
+    {
+      "name": "https://www.agoda.com/api/cronos/layout/login/params",
+      "type": "xmlhttprequest",
+      "transferSize": 3757,
+      "encodedBodySize": 3457,
+      "decodedBodySize": 8031,
+      "duration": 181.09999990463257,
+      "startTime": 2586.0999999046326
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/4312-a7fd5217a85c.js",
+      "type": "script",
+      "transferSize": 69053,
+      "encodedBodySize": 68753,
+      "decodedBodySize": 298096,
+      "duration": 69.60000014305115,
+      "startTime": 2613.399999856949
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/5756-d16913d57cde.js",
+      "type": "script",
+      "transferSize": 7606,
+      "encodedBodySize": 7306,
+      "decodedBodySize": 25152,
+      "duration": 72.20000004768372,
+      "startTime": 2613.899999856949
+    },
+    {
+      "name": "https://cdn6.agoda.net/images/kite-js/logo/agoda/color-default.svg",
+      "type": "img",
+      "transferSize": 2070,
+      "encodedBodySize": 1770,
+      "decodedBodySize": 5656,
+      "duration": 63.39999985694885,
+      "startTime": 2669
+    },
+    {
+      "name": "https://pix6.agoda.net/images/MVC/default/logo-en.svg",
+      "type": "img",
+      "transferSize": 342,
+      "encodedBodySize": 42,
+      "decodedBodySize": 42,
+      "duration": 208.29999995231628,
+      "startTime": 2669.0999999046326
+    },
+    {
+      "name": "https://cdn6.agoda.net/images/mobile/flag-us@2x.png",
+      "type": "img",
+      "transferSize": 3036,
+      "encodedBodySize": 2736,
+      "decodedBodySize": 2736,
+      "duration": 63.5,
+      "startTime": 2669.199999809265
+    },
+    {
+      "name": "https://www.agoda.com/api/cronos/seo/base",
+      "type": "xmlhttprequest",
+      "transferSize": 2275,
+      "encodedBodySize": 1975,
+      "decodedBodySize": 6014,
+      "duration": 140.70000004768372,
+      "startTime": 2685.5999999046326
+    },
+    {
+      "name": "https://www.googletagmanager.com/gtm.js?id=GTM-5TXL8JK&gtm_auth=&gtm_preview=&gtm_cookies_win=x",
+      "type": "script",
+      "transferSize": 0,
+      "encodedBodySize": 0,
+      "decodedBodySize": 0,
+      "duration": 655,
+      "startTime": 2687.899999856949
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/117-b21fead69d87.js",
+      "type": "script",
+      "transferSize": 781,
+      "encodedBodySize": 481,
+      "decodedBodySize": 1026,
+      "duration": 60.700000047683716,
+      "startTime": 2704.199999809265
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/8610-51218b6d28d2.css",
+      "type": "link",
+      "transferSize": 2197,
+      "encodedBodySize": 1897,
+      "decodedBodySize": 8872,
+      "duration": 73.10000014305115,
+      "startTime": 2705.699999809265
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/8610-f0c69965d43b.js",
+      "type": "script",
+      "transferSize": 65923,
+      "encodedBodySize": 65623,
+      "decodedBodySize": 244697,
+      "duration": 77.10000014305115,
+      "startTime": 2706.199999809265
+    },
+    {
+      "name": "https://www.agoda.com/api/cronos/home/GetTopDestinations",
+      "type": "xmlhttprequest",
+      "transferSize": 1639,
+      "encodedBodySize": 1339,
+      "decodedBodySize": 11225,
+      "duration": 152.79999995231628,
+      "startTime": 2715.899999856949
+    },
+    {
+      "name": "https://www.agoda.com/api/gw/Cms/Lookup?",
+      "type": "xmlhttprequest",
+      "transferSize": 3687,
+      "encodedBodySize": 3387,
+      "decodedBodySize": 11614,
+      "duration": 178.59999990463257,
+      "startTime": 2732.5
+    },
+    {
+      "name": "https://www.agoda.com/api/cart/items",
+      "type": "xmlhttprequest",
+      "transferSize": 477,
+      "encodedBodySize": 177,
+      "decodedBodySize": 226,
+      "duration": 154.60000014305115,
+      "startTime": 2736.399999856949
+    },
+    {
+      "name": "https://accounts.google.com/gsi/client",
+      "type": "script",
+      "transferSize": 0,
+      "encodedBodySize": 0,
+      "decodedBodySize": 0,
+      "duration": 483.7999999523163,
+      "startTime": 3037.7999999523163
+    },
+    {
+      "name": "https://www.agoda.com/api/cronos/mkt/GetConsentBanner",
+      "type": "fetch",
+      "transferSize": 300,
+      "encodedBodySize": 0,
+      "decodedBodySize": 0,
+      "duration": 153.70000004768372,
+      "startTime": 3053.5999999046326
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/4753-ceb6d5ed8fba.js",
+      "type": "link",
+      "transferSize": 0,
+      "encodedBodySize": 46703,
+      "decodedBodySize": 214363,
+      "duration": 9.400000095367432,
+      "startTime": 3083.899999856949
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/1258-fbf825d00276.js",
+      "type": "link",
+      "transferSize": 111361,
+      "encodedBodySize": 111061,
+      "decodedBodySize": 444302,
+      "duration": 69.40000009536743,
+      "startTime": 3084.199999809265
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/4906-81ad39f700f8.js",
+      "type": "link",
+      "transferSize": 0,
+      "encodedBodySize": 94340,
+      "decodedBodySize": 355410,
+      "duration": 17.700000047683716,
+      "startTime": 3084.2999999523163
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/9557-756d0c1ec441.js",
+      "type": "link",
+      "transferSize": 0,
+      "encodedBodySize": 893685,
+      "decodedBodySize": 5637299,
+      "duration": 62.19999980926514,
+      "startTime": 3084.5
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/8490-660480a0ce41.js",
+      "type": "link",
+      "transferSize": 37634,
+      "encodedBodySize": 37334,
+      "decodedBodySize": 145187,
+      "duration": 72.79999995231628,
+      "startTime": 3084.7999999523163
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/3143-eb8ff648c99c.js",
+      "type": "link",
+      "transferSize": 689078,
+      "encodedBodySize": 688778,
+      "decodedBodySize": 4221288,
+      "duration": 114.40000009536743,
+      "startTime": 3084.899999856949
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/9392-e67544b11f93.js",
+      "type": "link",
+      "transferSize": 0,
+      "encodedBodySize": 23899,
+      "decodedBodySize": 87135,
+      "duration": 12.599999904632568,
+      "startTime": 3085
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/search-24cd67cdd3e7.js",
+      "type": "link",
+      "transferSize": 272672,
+      "encodedBodySize": 272372,
+      "decodedBodySize": 1187022,
+      "duration": 138.20000004768372,
+      "startTime": 3085.0999999046326
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-design-system/icons/d107c904.svg",
+      "type": "fetch",
+      "transferSize": 663,
+      "encodedBodySize": 363,
+      "decodedBodySize": 646,
+      "duration": 97.79999995231628,
+      "startTime": 3088.0999999046326
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-design-system/icons/6aa78475.svg",
+      "type": "fetch",
+      "transferSize": 613,
+      "encodedBodySize": 313,
+      "decodedBodySize": 498,
+      "duration": 111.60000014305115,
+      "startTime": 3088.399999856949
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-design-system/icons/39cd88b4.svg",
+      "type": "fetch",
+      "transferSize": 745,
+      "encodedBodySize": 445,
+      "decodedBodySize": 753,
+      "duration": 127.5,
+      "startTime": 3088.899999856949
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-design-system/icons/c00333f2.svg",
+      "type": "fetch",
+      "transferSize": 682,
+      "encodedBodySize": 382,
+      "decodedBodySize": 622,
+      "duration": 110.89999985694885,
+      "startTime": 3089.2999999523163
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-design-system/icons/06b033a0.svg",
+      "type": "fetch",
+      "transferSize": 1046,
+      "encodedBodySize": 746,
+      "decodedBodySize": 1534,
+      "duration": 129.60000014305115,
+      "startTime": 3089.699999809265
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-design-system/icons/3073527e.svg",
+      "type": "fetch",
+      "transferSize": 913,
+      "encodedBodySize": 613,
+      "decodedBodySize": 1140,
+      "duration": 129.60000014305115,
+      "startTime": 3090.199999809265
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/2054-514af4087112.js",
+      "type": "script",
+      "transferSize": 46992,
+      "encodedBodySize": 46692,
+      "decodedBodySize": 188942,
+      "duration": 124.90000009536743,
+      "startTime": 3099.399999856949
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/4423-208c1f1cbac3.js",
+      "type": "script",
+      "transferSize": 37540,
+      "encodedBodySize": 37240,
+      "decodedBodySize": 144982,
+      "duration": 125.29999995231628,
+      "startTime": 3099.7999999523163
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/9058-0cfe19bde244.js",
+      "type": "script",
+      "transferSize": 40194,
+      "encodedBodySize": 39894,
+      "decodedBodySize": 155141,
+      "duration": 125.59999990463257,
+      "startTime": 3100.2999999523163
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/6056-dff64c6f51a5.css",
+      "type": "link",
+      "transferSize": 18550,
+      "encodedBodySize": 18250,
+      "decodedBodySize": 203698,
+      "duration": 120.60000014305115,
+      "startTime": 3100.699999809265
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/6056-5c11f3b1ff64.js",
+      "type": "script",
+      "transferSize": 20751,
+      "encodedBodySize": 20451,
+      "decodedBodySize": 77069,
+      "duration": 134,
+      "startTime": 3101.5
+    },
+    {
+      "name": "https://www.agoda.com/api/cronos/seo/base",
+      "type": "xmlhttprequest",
+      "transferSize": 2275,
+      "encodedBodySize": 1975,
+      "decodedBodySize": 6014,
+      "duration": 180.5,
+      "startTime": 3104.199999809265
+    },
+    {
+      "name": "https://cdn0.agoda.net/images/accom/3367_IN_homepage_background_B.png",
+      "type": "css",
+      "transferSize": 895215,
+      "encodedBodySize": 894915,
+      "decodedBodySize": 894915,
+      "duration": 311,
+      "startTime": 3110.399999856949
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/2942-95b70ce92c55.css",
+      "type": "link",
+      "transferSize": 549,
+      "encodedBodySize": 249,
+      "decodedBodySize": 594,
+      "duration": 70.90000009536743,
+      "startTime": 3277.399999856949
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/2942-6543bd076abf.js",
+      "type": "script",
+      "transferSize": 1449,
+      "encodedBodySize": 1149,
+      "decodedBodySize": 2838,
+      "duration": 70.79999995231628,
+      "startTime": 3278.0999999046326
+    },
+    {
+      "name": "https://www.agoda.com/activities/api/cronos/crosssell/GetServableCities",
+      "type": "xmlhttprequest",
+      "transferSize": 9663,
+      "encodedBodySize": 9363,
+      "decodedBodySize": 18654,
+      "duration": 163.90000009536743,
+      "startTime": 3314.199999809265
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-design-system/icons/0257c99b.svg",
+      "type": "fetch",
+      "transferSize": 560,
+      "encodedBodySize": 260,
+      "decodedBodySize": 419,
+      "duration": 85.59999990463257,
+      "startTime": 3315
+    },
+    {
+      "name": "https://www.agoda.com/api/cronos/layout/GetCalendarExtrasAsync/?cityId=8801&occupancy=2&currency=INR&suggestedPrice=2&checkIn=2025-11-25T21%3A25%3A15.6763319%2B07%3A00",
+      "type": "xmlhttprequest",
+      "transferSize": 503,
+      "encodedBodySize": 203,
+      "decodedBodySize": 281,
+      "duration": 149.09999990463257,
+      "startTime": 3318.7999999523163
+    },
+    {
+      "name": "https://www.agoda.com/graphql/search",
+      "type": "fetch",
+      "transferSize": 0,
+      "encodedBodySize": 0,
+      "decodedBodySize": 0,
+      "duration": 104.89999985694885,
+      "startTime": 3391.5
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/2014-7be2479d081e.js",
+      "type": "script",
+      "transferSize": 1332,
+      "encodedBodySize": 1032,
+      "decodedBodySize": 2533,
+      "duration": 74.5,
+      "startTime": 3393.7999999523163
+    },
+    {
+      "name": "https://www.agoda.com/graphql/search",
+      "type": "fetch",
+      "transferSize": 395,
+      "encodedBodySize": 95,
+      "decodedBodySize": 103,
+      "duration": 181.40000009536743,
+      "startTime": 3459.199999809265
+    },
+    {
+      "name": "https://www.google.com/ccm/collect?frm=0&en=page_view&dl=https%3A%2F%2Fwww.agoda.com%2Fen-in%2F&scrsrc=www.googletagmanager.com&rnd=1506404328.1763303119&dt=Agoda%20Official%20Site%20%7C%20Free%20Cancellation%20%26%20Booking%20Deals%20%7C%20Over%202%20Million%20Hotels&auid=1161924708.1755587870&gclaw=CjwKCAjwgeLHBhBuEiwAL5gNEeC2fZd-iJWRmGwkm3DTeLY_shcEV-ZnLQ-btEoFm3EWeWoTBYJc2RoC8oUQAvD_BwE&navt=n&npa=0&gtm=45He5bc1v851582372za200zd851582372xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=103116026~103200004~104527907~104528500~104684208~104684211~105322303~115583767~115616985~115938466~115938469~116217636~116217638&tft=1763303119121&tfd=3592&apve=1&apvf=f",
+      "type": "fetch",
+      "transferSize": 0,
+      "encodedBodySize": 0,
+      "decodedBodySize": 0,
+      "duration": 361.5,
+      "startTime": 3596.2999999523163
+    },
+    {
+      "name": "https://www.googletagmanager.com/gtag/js?id=G-T408Z268D2&cx=c&gtm=4e5bc1",
+      "type": "script",
+      "transferSize": 0,
+      "encodedBodySize": 0,
+      "decodedBodySize": 0,
+      "duration": 331.09999990463257,
+      "startTime": 3604.0999999046326
+    },
+    {
+      "name": "https://s.yimg.jp/images/listing/tool/cv/ytag.js",
+      "type": "script",
+      "transferSize": 0,
+      "encodedBodySize": 0,
+      "decodedBodySize": 0,
+      "duration": 616.2999999523163,
+      "startTime": 3607
+    },
+    {
+      "name": "https://bat.bing.com/bat.js",
+      "type": "script",
+      "transferSize": 0,
+      "encodedBodySize": 0,
+      "decodedBodySize": 0,
+      "duration": 382.5,
+      "startTime": 3607.899999856949
+    },
+    {
+      "name": "https://www.agoda.com/api/cronos/home/GetTopDestinations",
+      "type": "xmlhttprequest",
+      "transferSize": 1639,
+      "encodedBodySize": 1339,
+      "decodedBodySize": 11225,
+      "duration": 173.20000004768372,
+      "startTime": 3634.899999856949
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/2299-9e7d96e8ec7c.js",
+      "type": "script",
+      "transferSize": 3232,
+      "encodedBodySize": 2932,
+      "decodedBodySize": 9168,
+      "duration": 76.20000004768372,
+      "startTime": 3636.399999856949
+    },
+    {
+      "name": "https://accounts.google.com/gsi/style",
+      "type": "link",
+      "transferSize": 0,
+      "encodedBodySize": 0,
+      "decodedBodySize": 0,
+      "duration": 79.5,
+      "startTime": 3652
+    },
+    {
+      "name": "https://connect.facebook.net/en_US/fbevents.js",
+      "type": "script",
+      "transferSize": 83849,
+      "encodedBodySize": 83549,
+      "decodedBodySize": 327428,
+      "duration": 269,
+      "startTime": 3709.7999999523163
+    },
+    {
+      "name": "https://www.agoda.com/api/card/campaigns",
+      "type": "xmlhttprequest",
+      "transferSize": 2052,
+      "encodedBodySize": 1752,
+      "decodedBodySize": 18047,
+      "duration": 166.29999995231628,
+      "startTime": 3719.0999999046326
+    },
+    {
+      "name": "https://www.agoda.com/api/card/campaigns",
+      "type": "xmlhttprequest",
+      "transferSize": 829,
+      "encodedBodySize": 529,
+      "decodedBodySize": 1539,
+      "duration": 170.79999995231628,
+      "startTime": 3719.899999856949
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/2798-ff2ad701c585.js",
+      "type": "script",
+      "transferSize": 50512,
+      "encodedBodySize": 50212,
+      "decodedBodySize": 344211,
+      "duration": 72.09999990463257,
+      "startTime": 3720.5999999046326
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/4566-4afeeac8677b.js",
+      "type": "script",
+      "transferSize": 1733,
+      "encodedBodySize": 1433,
+      "decodedBodySize": 3745,
+      "duration": 77.19999980926514,
+      "startTime": 3822
+    },
+    {
+      "name": "https://pix6.agoda.net/geo/city/14552/1_14552_02.jpg?ca=6&ce=1&s=375x&ar=1x1",
+      "type": "img",
+      "transferSize": 24367,
+      "encodedBodySize": 24067,
+      "decodedBodySize": 24067,
+      "duration": 68.30000019073486,
+      "startTime": 3873.199999809265
+    },
+    {
+      "name": "https://pix6.agoda.net/geo/city/4923/1_4923_02.jpg?ca=8&ce=1&s=375x&ar=1x1",
+      "type": "img",
+      "transferSize": 26598,
+      "encodedBodySize": 26298,
+      "decodedBodySize": 26298,
+      "duration": 75.20000004768372,
+      "startTime": 3873.2999999523163
+    },
+    {
+      "name": "https://pix6.agoda.net/geo/city/16850/1_16850_02.jpg?ca=6&ce=1&s=375x&ar=1x1",
+      "type": "img",
+      "transferSize": 15872,
+      "encodedBodySize": 15572,
+      "decodedBodySize": 15572,
+      "duration": 73.90000009536743,
+      "startTime": 3873.399999856949
+    },
+    {
+      "name": "https://pix6.agoda.net/geo/city/11304/077a5dc2a344a604731be86537916ba0.jpg?ce=0&s=375x&ar=1x1",
+      "type": "img",
+      "transferSize": 15747,
+      "encodedBodySize": 15447,
+      "decodedBodySize": 15447,
+      "duration": 97,
+      "startTime": 3873.5999999046326
+    },
+    {
+      "name": "https://pix6.agoda.net/geo/city/8801/1_8801_02.jpg?ca=6&ce=1&s=375x&ar=1x1",
+      "type": "img",
+      "transferSize": 28678,
+      "encodedBodySize": 28378,
+      "decodedBodySize": 28378,
+      "duration": 97.60000014305115,
+      "startTime": 3873.699999809265
+    },
+    {
+      "name": "https://pix6.agoda.net/geo/city/17269/1_17269_02.jpg?ca=6&ce=1&s=375x&ar=1x1",
+      "type": "img",
+      "transferSize": 39753,
+      "encodedBodySize": 39453,
+      "decodedBodySize": 39453,
+      "duration": 80.09999990463257,
+      "startTime": 3873.7999999523163
+    },
+    {
+      "name": "https://pix6.agoda.net/geo/city/8845/017f7c5548e391397f2be20f88df0b2c.jpg?ce=0&s=375x&ar=1x1",
+      "type": "img",
+      "transferSize": 20574,
+      "encodedBodySize": 20274,
+      "decodedBodySize": 20274,
+      "duration": 148.69999980926514,
+      "startTime": 3874
+    },
+    {
+      "name": "https://pix6.agoda.net/geo/city/12565/1_12565_02.jpg?ca=6&ce=1&s=375x&ar=1x1",
+      "type": "img",
+      "transferSize": 41658,
+      "encodedBodySize": 41358,
+      "decodedBodySize": 41358,
+      "duration": 172.90000009536743,
+      "startTime": 3874.199999809265
+    },
+    {
+      "name": "https://pix6.agoda.net/geo/city/16854/0abc435fa78c2ca6fb4cb5ec86af89d0.jpg?ce=0&s=375x&ar=1x1",
+      "type": "img",
+      "transferSize": 42805,
+      "encodedBodySize": 42505,
+      "decodedBodySize": 42505,
+      "duration": 176.5,
+      "startTime": 3874.199999809265
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-design-system/icons/5ee083f8.svg",
+      "type": "fetch",
+      "transferSize": 592,
+      "encodedBodySize": 292,
+      "decodedBodySize": 497,
+      "duration": 96.20000004768372,
+      "startTime": 3894.7999999523163
+    },
+    {
+      "name": "https://cdn6.agoda.net/images/WebCampaign/20251103_ss_doubleday1111/home_banner_web/en-us.png",
+      "type": "img",
+      "transferSize": 212966,
+      "encodedBodySize": 212666,
+      "decodedBodySize": 212666,
+      "duration": 94.5,
+      "startTime": 3968.899999856949
+    },
+    {
+      "name": "https://cdn6.agoda.net/images/WebCampaign/dealspagebanner_hp_web/en-us.png",
+      "type": "img",
+      "transferSize": 164533,
+      "encodedBodySize": 164233,
+      "decodedBodySize": 164233,
+      "duration": 98.20000004768372,
+      "startTime": 3969.199999809265
+    },
+    {
+      "name": "https://cdn6.agoda.net/images/WebCampaign/20250729_th_flagshipstoreaccor_2/home_banner_web/en-us.png",
+      "type": "img",
+      "transferSize": 4120943,
+      "encodedBodySize": 4120643,
+      "decodedBodySize": 4120643,
+      "duration": 281.80000019073486,
+      "startTime": 3969.199999809265
+    },
+    {
+      "name": "https://cdn6.agoda.net/images/WebCampaign/20250724_in_oliveindia/home_banner_web/en-us.png",
+      "type": "img",
+      "transferSize": 183293,
+      "encodedBodySize": 182993,
+      "decodedBodySize": 182993,
+      "duration": 135.60000014305115,
+      "startTime": 3969.399999856949
+    },
+    {
+      "name": "https://cdn6.agoda.net/images/WebCampaign/20250916_in_royalorchid/home_banner_web/en-us.png",
+      "type": "img",
+      "transferSize": 1132978,
+      "encodedBodySize": 1132678,
+      "decodedBodySize": 1132678,
+      "duration": 391.09999990463257,
+      "startTime": 3969.5999999046326
+    },
+    {
+      "name": "https://cdn6.agoda.net/images/EmailMarketing/activities/hp_banner/web/en-us.png",
+      "type": "img",
+      "transferSize": 243975,
+      "encodedBodySize": 243675,
+      "decodedBodySize": 243675,
+      "duration": 168.10000014305115,
+      "startTime": 4024.699999809265
+    },
+    {
+      "name": "https://cdn6.agoda.net/images/blt2/wcFlightsEvergreen2025/Web/5pct/en-us.png",
+      "type": "img",
+      "transferSize": 132127,
+      "encodedBodySize": 131827,
+      "decodedBodySize": 131827,
+      "duration": 180.79999995231628,
+      "startTime": 4024.7999999523163
+    },
+    {
+      "name": "https://www.agoda.com/api/cronos/home/GetTimeSaleContent",
+      "type": "xmlhttprequest",
+      "transferSize": 332,
+      "encodedBodySize": 32,
+      "decodedBodySize": 32,
+      "duration": 199.29999995231628,
+      "startTime": 4033.0999999046326
+    },
+    {
+      "name": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "type": "script",
+      "transferSize": 34231,
+      "encodedBodySize": 33931,
+      "decodedBodySize": 107081,
+      "duration": 427.89999985694885,
+      "startTime": 4036.5
+    },
+    {
+      "name": "https://www.agoda.com/api/cronos/home/GetTopDestinations",
+      "type": "xmlhttprequest",
+      "transferSize": 2719,
+      "encodedBodySize": 2419,
+      "decodedBodySize": 22280,
+      "duration": 208.79999995231628,
+      "startTime": 4038.0999999046326
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-accom-web/js/assets/browser-bundle/2593-2389a20c3ddd.js",
+      "type": "script",
+      "transferSize": 5284,
+      "encodedBodySize": 4984,
+      "decodedBodySize": 17750,
+      "duration": 170.20000004768372,
+      "startTime": 4038.899999856949
+    },
+    {
+      "name": "https://mtagm.agoda.com/g/collect?v=2&tid=G-T408Z268D2&gtm=45je5bc1v886006994z8851582372za200zb851582372zd851582372&_p=1763303118216&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=570401941.1755587870&ecid=1752409319&ul=en-us&sr=1920x1080&_fplc=0&ur=IN-AP&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B141.0.7390.125%7CNot%253FA_Brand%3B8.0.0.0%7CChromium%3B141.0.7390.125&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&are=1&frm=0&pscdl=&_eu=AAAAAAQ&sst.etld=google.co.in&sst.tft=1763303118216&sst.lpc=253529113&sst.navt=n&sst.ude=0&sst.sw_exp=1&_s=1&tag_exp=103116026~103200004~104527907~104528500~104684208~104684211~115583767~115938466~115938468~116217636~116217638&tfd=4126&richsstsse",
+      "type": "fetch",
+      "transferSize": 0,
+      "encodedBodySize": 0,
+      "decodedBodySize": 0,
+      "duration": 609.1000001430511,
+      "startTime": 4179.899999856949
+    },
+    {
+      "name": "https://mtagm.agoda.com/g/collect?v=2&tid=G-T408Z268D2&gtm=45je5bc1v886006994z8851582372za200zb851582372zd851582372&_p=1763303118216&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=570401941.1755587870&ecid=1752409319&ul=en-us&sr=1920x1080&_fplc=0&ur=IN-AP&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B141.0.7390.125%7CNot%253FA_Brand%3B8.0.0.0%7CChromium%3B141.0.7390.125&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&are=1&frm=0&pscdl=&ec_mode=c&_eu=AAACAAQ&sst.etld=google.co.in&sst.tft=1763303118216&sst.lpc=253529113&sst.navt=n&sst.ude=0&sst.sw_exp=1&_s=2&tag_exp=103116026~103200004~104527907~104528500~104684208~104684211~115583767~115938466~115938468~116217636~116217638&cu=inr&sid=1763303119&sct=3&seg=1&dl=https%3A%2F%2Fwww.agoda.com%2Fen-in%2F%3Fds%3DDvBFpzMN5AjpMBSU&dt=Agoda%20Official%20Site%20%7C%20Free%20Cancellation%20%26%20Booking%20Deals%20%7C%20Over%202%20Million%20Hotels&_tu=BA&en=page_view&_ss=2&up.userProfileLanguage=&up.x-fb-ck-fbp=fb.1.1755587870582.217045047269726638&up.first_party_collection=true&tfd=4194&richsstsse",
+      "type": "fetch",
+      "transferSize": 0,
+      "encodedBodySize": 0,
+      "decodedBodySize": 0,
+      "duration": 653.4000000953674,
+      "startTime": 4195.099999904633
+    },
+    {
+      "name": "https://connect.facebook.net/signals/config/446731502144130?v=2.9.241&r=stable&domain=www.agoda.com&hme=5bd299cb4a477effb7bd992f8c033bfd3316c17b5e8e681c5c577860e1b0bfc7&ex_m=90%2C151%2C131%2C19%2C66%2C67%2C124%2C62%2C42%2C125%2C71%2C61%2C138%2C79%2C13%2C89%2C27%2C119%2C111%2C69%2C72%2C118%2C135%2C98%2C140%2C7%2C3%2C4%2C6%2C5%2C2%2C80%2C88%2C141%2C218%2C162%2C56%2C220%2C221%2C49%2C177%2C26%2C68%2C226%2C225%2C165%2C29%2C55%2C8%2C58%2C84%2C85%2C86%2C91%2C115%2C28%2C25%2C117%2C114%2C113%2C132%2C70%2C134%2C133%2C44%2C54%2C108%2C12%2C137%2C39%2C207%2C209%2C172%2C22%2C23%2C24%2C16%2C17%2C38%2C34%2C36%2C35%2C75%2C81%2C83%2C96%2C123%2C126%2C40%2C97%2C20%2C18%2C102%2C63%2C32%2C128%2C127%2C129%2C120%2C21%2C31%2C53%2C95%2C136%2C64%2C15%2C130%2C30%2C187%2C158%2C268%2C205%2C149%2C190%2C183%2C159%2C93%2C116%2C74%2C106%2C48%2C41%2C104%2C105%2C110%2C52%2C14%2C112%2C103%2C59%2C43%2C99%2C47%2C50%2C46%2C87%2C139%2C0%2C109%2C11%2C107%2C9%2C1%2C51%2C82%2C57%2C60%2C101%2C78%2C77%2C45%2C121%2C76%2C73%2C65%2C100%2C92%2C37%2C122%2C33%2C94%2C10%2C142",
+      "type": "script",
+      "transferSize": 30467,
+      "encodedBodySize": 30167,
+      "decodedBodySize": 129436,
+      "duration": 34.59999990463257,
+      "startTime": 4285.599999904633
+    },
+    {
+      "name": "https://bat.bing.com/p/action/319000002.js",
+      "type": "script",
+      "transferSize": 0,
+      "encodedBodySize": 0,
+      "decodedBodySize": 0,
+      "duration": 147.69999980926514,
+      "startTime": 4362.5
+    },
+    {
+      "name": "https://pix6.agoda.net/geo/city/2994/0c2aae36625e3e958684d0d4ae5b12d0.jpg?ce=0&s=375x&ar=1x1",
+      "type": "img",
+      "transferSize": 9294,
+      "encodedBodySize": 8994,
+      "decodedBodySize": 8994,
+      "duration": 80.5,
+      "startTime": 4433.599999904633
+    },
+    {
+      "name": "https://pix6.agoda.net/geo/city/10182/0d5aa026807856a268fc512c25ac53d3.jpg?ce=0&s=375x&ar=1x1",
+      "type": "img",
+      "transferSize": 19544,
+      "encodedBodySize": 19244,
+      "decodedBodySize": 19244,
+      "duration": 79.70000004768372,
+      "startTime": 4433.899999856949
+    },
+    {
+      "name": "https://pix6.agoda.net/geo/city/8105/1_8105_02.jpg?ca=6&ce=1&s=375x&ar=1x1",
+      "type": "img",
+      "transferSize": 21617,
+      "encodedBodySize": 21317,
+      "decodedBodySize": 21317,
+      "duration": 80.39999985694885,
+      "startTime": 4434
+    },
+    {
+      "name": "https://pix6.agoda.net/geo/city/9395/1_9395_02.jpg?ca=6&ce=1&s=375x&ar=1x1",
+      "type": "img",
+      "transferSize": 34363,
+      "encodedBodySize": 34063,
+      "decodedBodySize": 34063,
+      "duration": 80.69999980926514,
+      "startTime": 4434
+    },
+    {
+      "name": "https://pix6.agoda.net/geo/city/4626/0fdc4eb62f66c72e3c1e41d7f55f274d.jpg?ce=0&s=375x&ar=1x1",
+      "type": "img",
+      "transferSize": 39459,
+      "encodedBodySize": 39159,
+      "decodedBodySize": 39159,
+      "duration": 80.90000009536743,
+      "startTime": 4434.199999809265
+    },
+    {
+      "name": "https://pix6.agoda.net/geo/city/5563/1_5563_02.jpg?ca=6&ce=1&s=375x&ar=1x1",
+      "type": "img",
+      "transferSize": 23235,
+      "encodedBodySize": 22935,
+      "decodedBodySize": 22935,
+      "duration": 88.59999990463257,
+      "startTime": 4434.299999952316
+    },
+    {
+      "name": "https://www.agoda.com/api/cronos/loyalty/getloyaltybanners",
+      "type": "xmlhttprequest",
+      "transferSize": 548,
+      "encodedBodySize": 248,
+      "decodedBodySize": 338,
+      "duration": 255.59999990463257,
+      "startTime": 4451.299999952316
+    },
+    {
+      "name": "https://www.facebook.com/tr/?id=446731502144130&ev=landing&dl=https%3A%2F%2Fwww.agoda.com%2Fen-in%2F%3Fds%3DDvBFpzMN5AjpMBSU&rl=&if=false&ts=1763303120014&cd[currency]=inr&cd[content_type]=%5B%27home%27%5D&cd[ab50-50split]=GroupB&cd[langid]=1&sw=1920&sh=1080&v=2.9.241&r=stable&a=tmSimo-GTM-WebTemplate&ec=0&o=4126&fbp=fb.1.1755587870582.217045047269726638&plt=2765.5&it=1763303119811&coo=false&pmd[description]=Free%20cancellation%20available!%20%7C%20Discounts%20on%20clean%20hotels%2C%20homes%20%26%20flights%20%7C%20Best%20price%20guarantee!%20%7C%20Over%2020%20Million%20reviews%20%7C%20Safe%20%26%20secure&pmd[keywords]=Agoda%2C%20hotel%2C%20hotels%2C%20discount%2C%20reservations%2C%20Asia%2C%20Europe%2C%20America%2C%20Bangkok%2C%20Singapore%2C%20Hong%20Kong%2C%20Phuket%2C%20Thailand%2C%20Malaysia%2C%20Bali%2C%20London%2C%20Paris%2C%20loyalty%20program%2C%20acommodation%2C%20accomodation%2C%20acomodation%2C%20accommodation%2C%20vacation%20rentals&plt=2765.5&it=1763303119811&coo=false&eid=y2v0kvsmrcldptuqpgmd5smz&tm=2&cdl=&expv2[0]=pl1&expv2[1]=el2&expv2[2]=bc1&expv2[3]=mr0&rqm=GET",
+      "type": "img",
+      "transferSize": 0,
+      "encodedBodySize": 0,
+      "decodedBodySize": 0,
+      "duration": 223.59999990463257,
+      "startTime": 4490
+    },
+    {
+      "name": "https://www.facebook.com/privacy_sandbox/pixel/register/trigger/?id=446731502144130&ev=landing&dl=https%3A%2F%2Fwww.agoda.com%2Fen-in%2F%3Fds%3DDvBFpzMN5AjpMBSU&rl=&if=false&ts=1763303120014&cd[currency]=inr&cd[content_type]=%5B%27home%27%5D&cd[ab50-50split]=GroupB&cd[langid]=1&sw=1920&sh=1080&v=2.9.241&r=stable&a=tmSimo-GTM-WebTemplate&ec=0&o=4126&fbp=fb.1.1755587870582.217045047269726638&plt=2765.5&it=1763303119811&coo=false&eid=y2v0kvsmrcldptuqpgmd5smz&tm=2&cdl=&expv2[0]=pl1&expv2[1]=el2&expv2[2]=bc1&expv2[3]=mr0&rqm=FGET",
+      "type": "img",
+      "transferSize": 0,
+      "encodedBodySize": 0,
+      "decodedBodySize": 0,
+      "duration": 565.2000000476837,
+      "startTime": 4490.199999809265
+    },
+    {
+      "name": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202511100101/pubads_impl.js?cb=31095768",
+      "type": "script",
+      "transferSize": 196539,
+      "encodedBodySize": 196239,
+      "decodedBodySize": 620703,
+      "duration": 139.90000009536743,
+      "startTime": 4545.099999904633
+    },
+    {
+      "name": "https://bat.bing.com/p/conversions/t/319000002",
+      "type": "script",
+      "transferSize": 0,
+      "encodedBodySize": 0,
+      "decodedBodySize": 0,
+      "duration": 184.29999995231628,
+      "startTime": 4572.899999856949
+    },
+    {
+      "name": "https://bat.bing.com/action/0?ti=319000002&tm=gtm002&Ver=2&mid=c96155e2-b24c-4a3c-a46d-e2da7752aa30&bo=1&sid=148d7900c2f811f088d663c16e3b4497&vid=9fdf8cb07ccc11f0881fcb91832b6ba6&vids=0&msclkid=N&uach=pv%3D19.0.0&pi=918639831&lg=en-US&sw=1920&sh=1080&sc=24&tl=Agoda%20Official%20Site%20%7C%20Free%20Cancellation%20%26%20Booking%20Deals%20%7C%20Over%202%20Million%20Hotels&kw=Agoda,%20hotel,%20hotels,%20discount,%20reservations,%20Asia,%20Europe,%20America,%20Bangkok,%20Singapore,%20Hong%20Kong,%20Phuket,%20Thailand,%20Malaysia,%20Bali,%20London,%20Paris,%20loyalty%20program,%20acommodation,%20accomodation,%20acomodation,%20accommodation,%20vacation%20rentals&p=https%3A%2F%2Fwww.agoda.com%2Fen-in%2F%3Fds%3DDvBFpzMN5AjpMBSU&r=&lt=2765&evt=pageLoad&sv=2&cdb=AQwR&rn=76892",
+      "type": "img",
+      "transferSize": 0,
+      "encodedBodySize": 0,
+      "decodedBodySize": 0,
+      "duration": 261.59999990463257,
+      "startTime": 4573.099999904633
+    },
+    {
+      "name": "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202510140101/gpt",
+      "type": "link",
+      "transferSize": 23614,
+      "encodedBodySize": 23314,
+      "decodedBodySize": 64541,
+      "duration": 57.39999985694885,
+      "startTime": 4574.5
+    },
+    {
+      "name": "https://securepubads.g.doubleclick.net/static/topics/topics_frame.html",
+      "type": "iframe",
+      "transferSize": 0,
+      "encodedBodySize": 0,
+      "decodedBodySize": 0,
+      "duration": 455.7999999523163,
+      "startTime": 4769.899999856949
+    },
+    {
+      "name": "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=8493763213714272&correlator=348341939853848&eid=95375630%2C31095768%2C83321072%2C95378233&output=ldjh&gdfp_req=1&vrg=202511100101&ptt=17&impl=fifs&iu_parts=3102%2CAgoda.com_Hotels%2CAgoda_hotel_WEB_HP_728x90&enc_prev_ius=%2F0%2F1%2F2&prev_iu_szs=728x90&ifi=1&dids=ads-home-desktop-slot1&adfs=3464483987&sfv=1-0-45&sc=1&cookie=ID%3Df9e435511f1c3740%3AT%3D1755587871%3ART%3D1761128579%3AS%3DALNI_MYLJmaUiDHUC3TRgC-VLSVAvrzXTA&gpic=UID%3D00001182ac85f71c%3AT%3D1755587871%3ART%3D1761128579%3AS%3DALNI_Mb2oFa7O5extFcN3O2DzK7JNRvPGw&abxe=1&dt=1763303120330&lmt=1763303120&adxs=589&adys=1733&biw=1905&bih=859&scr_x=0&scr_y=0&btvi=1&ucis=1&oid=2&u_his=2&u_h=1080&u_w=1920&u_ah=1032&u_aw=1920&u_cd=24&u_sd=1&u_tz=330&dmc=8&bc=31&nvt=1&uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTQxLjAuNzM5MC4xMjUiLG51bGwsMCxudWxsLCI2NCIsW1siR29vZ2xlIENocm9tZSIsIjE0MS4wLjczOTAuMTI1Il0sWyJOb3Q_QV9CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTQxLjAuNzM5MC4xMjUiXV0sMF0.&url=https%3A%2F%2Fwww.agoda.com%2Fen-in%2F%3Fds%3DDvBFpzMN5AjpMBSU&vis=1&psz=1124x90&msz=728x90&fws=4&ohw=1905&topics=9&tps=9&htps=10&nt=1&psd=WzMxLFtdLG51bGwsMV0.&dlt=1763303116190&idt=4053&prev_scp=trafficgroupId%3D4%26cid%3D-1%26displaycurrency%3DIN%26langid%3D15%26country_origin_name%3Din%26country_origin_id%3D35%26page_type_id%3D1&adks=2601431956&frm=20&eoidce=1&pgls=CAk.&td=1&egid=49202&tan=0da017aa-4427-4027-bbf9-fcc71fca8d60&tdf=2",
+      "type": "fetch",
+      "transferSize": 764,
+      "encodedBodySize": 464,
+      "decodedBodySize": 876,
+      "duration": 418.40000009536743,
+      "startTime": 4823.899999856949
+    },
+    {
+      "name": "https://ac527c3a6032b795ebf28fe1b3e4e340.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+      "type": "iframe",
+      "transferSize": 3421,
+      "encodedBodySize": 3121,
+      "decodedBodySize": 7404,
+      "duration": 456.2000000476837,
+      "startTime": 4846.199999809265
+    },
+    {
+      "name": "https://www.agoda.com/api/cronos/loyalty/redirecttoappqr",
+      "type": "xmlhttprequest",
+      "transferSize": 1190,
+      "encodedBodySize": 890,
+      "decodedBodySize": 2744,
+      "duration": 214.70000004768372,
+      "startTime": 4852.699999809265
+    },
+    {
+      "name": "https://cdn6.agoda.net/cdn-design-system/icons/6c03f3aa.svg",
+      "type": "fetch",
+      "transferSize": 640,
+      "encodedBodySize": 340,
+      "decodedBodySize": 576,
+      "duration": 85,
+      "startTime": 4889.599999904633
+    },
+    {
+      "name": "https://cdn6.agoda.net/images/loyalty/redirecttoapp/ProminentAppDownloadQrBackground.png?s=375x",
+      "type": "img",
+      "transferSize": 2558,
+      "encodedBodySize": 2258,
+      "decodedBodySize": 2258,
+      "duration": 65.59999990463257,
+      "startTime": 4916
+    },
+    {
+      "name": "https://cdn6.agoda.net/images/loyalty/redirecttoapp/ProminentAppDownloadQrAgodaLogoDefault.svg?s=375x",
+      "type": "img",
+      "transferSize": 2070,
+      "encodedBodySize": 1770,
+      "decodedBodySize": 5656,
+      "duration": 69.60000014305115,
+      "startTime": 4916.199999809265
+    },
+    {
+      "name": "https://bat.bing.com/p/conversions/s/0.8.40",
+      "type": "script",
+      "transferSize": 0,
+      "encodedBodySize": 0,
+      "decodedBodySize": 0,
+      "duration": 124,
+      "startTime": 4932.5
+    },
+    {
+      "name": "https://analytics.google.com/g/s/collect?dma=0&npa=0&gcd=13l3l3l3l1l1&gtm=45j91e5bc1v886006994z8851582372z9846913331za200zb851582372zd851582372&tag_exp=103116026~103200004~104527907~104528500~104684208~104684211~115583767~115938466~115938468~116217636~116217638&_is_sw=f15s0t5&_tu=BA&_gsid=T408Z268D2jmTtRVLJz2ag_J8YoM4PFQ",
+      "type": "img",
+      "transferSize": 0,
+      "encodedBodySize": 0,
+      "decodedBodySize": 0,
+      "duration": 537.2999999523163,
+      "startTime": 4934.799999952316
+    },
+    {
+      "name": "https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&dma=0&npa=0&gcd=13l3l3l3l1l1&tid=G-T408Z268D2&cid=KsntF6SKirNdtQTEZ6aivOLqlBBRVLnGIgCt%2Fao5Ezo%3D.1755587870&gtm=45j91e5bc1v886006994z8851582372z9846913331za200zb851582372zd851582372&tag_exp=103116026~103200004~104527907~104528500~104684208~104684211~115583767~115938466~115938468~116217636~116217638&_is_sw=f15s0t5&_tu=BA&aip=1&z=1258975482",
+      "type": "img",
+      "transferSize": 342,
+      "encodedBodySize": 42,
+      "decodedBodySize": 42,
+      "duration": 387.7999999523163,
+      "startTime": 4934.899999856949
+    },
+    {
+      "name": "https://stats.g.doubleclick.net/g/collect?v=2&dma=0&npa=0&gcd=13l3l3l3l1l1&tid=G-T408Z268D2&cid=KsntF6SKirNdtQTEZ6aivOLqlBBRVLnGIgCt%2Fao5Ezo%3D.1755587870&gtm=45j91e5bc1v886006994z8851582372z9846913331za200zb851582372zd851582372&tag_exp=103116026~103200004~104527907~104528500~104684208~104684211~115583767~115938466~115938468~116217636~116217638&_is_sw=f15s0t5&_tu=BA&aip=1",
+      "type": "img",
+      "transferSize": 0,
+      "encodedBodySize": 0,
+      "decodedBodySize": 0,
+      "duration": 396.2000000476837,
+      "startTime": 4935.099999904633
+    }
+  ]
+}
