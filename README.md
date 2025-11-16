@@ -1,6 +1,6 @@
 # 🔍 BrowserConsoleAnalysis
 
-> A lightweight utility for capturing, analyzing, and reporting browser console messages using Playwright MCP and GitHubCopilot
+> A lightweight utility for capturing, analyzing, and reporting browser console messages using Playwright MCP Server and GitHubCopilot
 
 [![Node.js](https://img.shields.io/badge/node-%3E%3D16-brightgreen.svg)]()
 [![Playwright](https://img.shields.io/badge/playwright-latest-orange.svg)]()
@@ -72,7 +72,52 @@ npx playwright install
 
 ---
 
-## 💻 Usage
+## 💻 Implementation Guide
+
+### 🎯 Step-by-Step Implementation
+
+This project uses **Playwright MCP Server** with **GitHub Copilot** in agent mode for intelligent browser console analysis.
+
+#### Step 1: Start Playwright MCP Server
+
+First, ensure the Playwright MCP server is running:
+
+```powershell
+# Start the Playwright MCP server
+# The server will listen for commands and manage browser automation
+playwright-mcp-server start
+```
+
+#### Step 2: Open GitHub Copilot in Agent Mode
+
+1. Open VS Code
+2. Activate GitHub Copilot
+3. Switch to **Agent Mode** (use `@` command in Copilot chat)
+
+#### Step 3: Issue the Analysis Prompt
+
+In GitHub Copilot chat, enter the following prompt:
+
+```
+Use playwright MCP Server. Perform analysis of error messages found on console for webpage: https://www.flipkart.com and save the results in markdown file under reports.
+```
+
+#### Step 4: Automatic Execution
+
+Once you issue the command:
+
+1. 🌐 **Playwright MCP** opens the browser automatically
+2. 🔍 **Navigates** to the target URL (e.g., https://www.flipkart.com)
+3. 👂 **Listens** to console messages and page errors
+4. ⏳ **Waits** for dynamic content to load
+5. 📊 **Analyzes** captured errors and warnings
+6. 💾 **Saves** results as markdown in `reports/` folder
+
+The entire process is automated through the Playwright MCP server and GitHub Copilot's agent capabilities.
+
+---
+
+## 💻 Manual Usage (Alternative Method)
 
 ### Basic Capture Script
 
@@ -240,6 +285,7 @@ Contributions are welcome! Feel free to:
 
 MIT License - feel free to use this project for any purpose!
 
+---
 
 <div align="center">
   
